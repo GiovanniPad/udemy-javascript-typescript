@@ -1,3 +1,6 @@
+// Aula 18 - Exercícios com Numbers e Math
+
+
 const num = Number(prompt('Digite um número'));
 const numeroTitulo = document.getElementById('numero-titulo');
 const texto = document.getElementById('texto');

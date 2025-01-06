@@ -1,3 +1,6 @@
+// Aula 17 - Objeto Math
+
+
 let num1 = 9.54578;
 let num2 = Math.floor(num1);
 let num3 = Math.ceil(num1);

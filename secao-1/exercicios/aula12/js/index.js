@@ -1,4 +1,6 @@
-// Exercício da Aula 11
+// Aula 12 - Exercício da Aula 11 - Resolução usando alert, confirm e prompt
+
+
 let num1 = prompt('Digite um número');
 let num2 = prompt('Digite outro número');
 

@@ -1,3 +1,6 @@
+// Aula 23 - Valores Primitivos e Valores por Referência
+
+
 let a = 'A';
 let b = a; // Cópia
 console.log(a, b);

@@ -1,3 +1,6 @@
+// Aula 19 - Arrays (Básico)
+
+
 const alunos = ['Giovanni', 'Beatriz', 'Zeca'];
 
 console.log(alunos);

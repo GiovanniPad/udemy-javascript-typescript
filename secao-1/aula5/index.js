@@ -1,3 +1,6 @@
+// Aula 5 - Variáveis com let
+
+
 let nome = 'Otávio'; // String
 
 console.log(nome, 'nasceu em 1984.');

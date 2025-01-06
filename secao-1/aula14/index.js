@@ -1,3 +1,6 @@
+// Aula 14 - Mais sobre Strings
+
+
 let string1 = 'Um \'texto\'';
 let string2 = 'Um \\texto';
 let string3 = 'Um texto qualquer. Um outro texto qualquer.';

@@ -1,3 +1,6 @@
+// Aula 1 - Console.log
+
+
 console.log('Giovanni "Padilha"'); // String = Texto
 console.log("Giovanni 'Padilha'");
 console.log(`Giovanni Padilha`)

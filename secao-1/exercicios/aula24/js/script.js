@@ -1,3 +1,6 @@
+// Aula 24 - Exercício com Funções, Arrays e Objetos
+
+
 function meuEscopo () {
     const form = document.querySelector('.form');
     const resultado = document.querySelector('.resultado');

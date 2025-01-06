@@ -1,3 +1,6 @@
+// Aula 16 - Um pouco mais sobre Numbers em JavaScript
+
+
 let num1 = 150.7123123; // number
 let num2 = 10; // number
 

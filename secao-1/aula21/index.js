@@ -1,3 +1,6 @@
+// Aula 21 - Funções em JavaScript (Introdução)
+
+
 function saudacao(nome) {
     return `Bom dia ${nome}!`;
 }

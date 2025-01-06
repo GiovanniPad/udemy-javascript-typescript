@@ -1,3 +1,6 @@
+// Aula 20 - Const com Valores Mutáveis
+
+
 const nome = 'Giovanni';
 //nome = 'Beatriz'; // Erro: Assignment to constant variable
 

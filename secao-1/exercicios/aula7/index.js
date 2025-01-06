@@ -1,3 +1,6 @@
+// Aula 7 - Exercícios com const, let e Template String
+
+
 const nome = 'Giovanni Padilha';
 const idade = 23;
 const peso = 89;

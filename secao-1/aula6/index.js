@@ -1,3 +1,6 @@
+// Aula 6 - Constantes com const
+
+
 const nome = 'João';
 console.log(nome);
 
