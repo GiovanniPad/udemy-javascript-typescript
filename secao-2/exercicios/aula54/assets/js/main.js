@@ -66,7 +66,7 @@ btnTarefa.addEventListener('click', function() {
 });
 
 inputTarefa.addEventListener('keypress', function(event) {
-    if (event.keyCode === 13) {
+    if (event.key === 'Enter') {
         if (!inputTarefa.value) return;
         criaTarefa(inputTarefa.value);
     }
